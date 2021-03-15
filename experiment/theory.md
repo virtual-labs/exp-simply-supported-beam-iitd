@@ -1,7 +1,7 @@
 
 ### Introduction
 
-<img src=“images/th.png”/>
+<img src="images/th.png"/>
 
 This simulation based experiment aims to study the mode of vibration of simply supported beams under flexure. The simply supported beam, a continuous system, is different from lumped masses (discrete system).
 
@@ -39,4 +39,4 @@ A is cross- sectional area<br>
 f<sub>n</sub> is natural frequencies<br>
 C is constant<br>
 
-<img src=“images/th1.png”/>
+<img src="images/th1.png"/>
