@@ -1,1 +1,1 @@
-## Experiment name
+## Modes of Vibrations of Beams (Beam)
