@@ -1,5 +1,5 @@
 ### These steps will be followed for the experiment
-**PRE EXPRIMENT QUIZ QUESTIONS**
+**PRE EXPRIMENT TASK**
 
 1) What is mode of vibration?<br>
 2) What is distributed system?<br>
@@ -52,7 +52,7 @@
 
 <img src="images/pr10.png"/> 
  
-**POST EXPRIMENT QUIZ QUESTIONS**
+**POST EXPRIMENT TASK**
 
 1) Compute the frequency for five different lengths of the beam, keeping
 all other parameters constant. Plot a graph between frequency and
