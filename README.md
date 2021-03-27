@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Civil Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Virtual Smart Structures & Dynamics Laboratory
+<b> Experiment|     <b> 1. Modes of Vibrations of Vibration of Simply Supported Beam 
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+This simulation based experiment aims to study the mode of vibration of simply supported beams under flexure.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Suresh Bhalla 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT Delhi
+<b> Email id|     <b>  sbhalla@civil.iitd.ac.in 
+<b> Department |  Civil Engineering
 
 ### Contributors List
 
