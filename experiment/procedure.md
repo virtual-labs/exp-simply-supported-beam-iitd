@@ -19,7 +19,7 @@
 
 <img src="images/pr2.png"/>
 
-3. Click on add button to bring pillers in the lab.
+3. Click on add button to bring blocks in the lab.
 
 <img src="images/pr3.png"/>
 
@@ -27,7 +27,7 @@
 
 <img src="images/pr4.png"/> 
 
-5. Click on beam to put it on the pillers.
+5. Click on beam to put it on the blocks.
 
 <img src="images/pr5.png"/> 
 
