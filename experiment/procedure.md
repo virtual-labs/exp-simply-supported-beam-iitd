@@ -26,7 +26,7 @@
 4. Click on add button to bring Beam in the lab.
 
 <img src="images/pr4.png"/> 
- 
+
 5. Click on Beam to put it on the pillers.
 
 <img src="images/pr5.png"/> 
