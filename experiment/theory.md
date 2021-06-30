@@ -1,6 +1,6 @@
 ### Introduction
 
-<img src="images/th.png"/>
+<center><img src="images/th.png" height="150px"/></center>
 
 This simulation based experiment aims to study the mode of vibration of simply supported beams under flexure. The simply supported beam, a continuous system, is different from a discrete system. Where Stiffness, the Mass, and Damping are modelled as discrete properties. The mathematical models for discrete system are ordinary differential equations, which thereby render themselves quite conductive to numerical solution techniques. An alternative method of modelling physical system, which is considered for this beam, is based on the principle of distributed mass and stiffness characteristics. Such a system for which stiffness and mass are considered to be distributed properties (rather than discrete) is referred as a distributed or continuous system.
 
