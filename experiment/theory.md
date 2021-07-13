@@ -9,7 +9,7 @@ Unlike a discrete system that possess a finite number of Degree Of Freedom&nbsp;
 This computational model of Simply Supported Beam is based on distributed system. By using this online simulation, the student/user can easily determine the natural frequencies of beams and simulate the first five mode shapes. In addition, there is an exercise for user: The user can study and plot a graph between natural frequency and length of beams keeping all others factors constant. Similarly, relation between natural frequency and the Young’s Modulus of Elasticity can be studied.
 
 
-<img src="images/formlsq1.png" style="height:490px;">
+<img src="images/formlsq1.png" style="height:490px;" draggable="false">
 
 
 Where, <i>L</i> is the length of beam, <i>EI</i> is the flexural rigidity (<i>E</i> = Young's modulus, <i>I</i> = Moment of inertia), <i>A</i> is cross- sectional area, <i>f<sub>n</sub></i> is natural frequency and <i>C</i> is constant.
