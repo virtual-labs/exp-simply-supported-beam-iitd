@@ -1,13 +1,13 @@
 ### These steps will be followed for the experiment
 
-**PRE EXPERIMENT TASK**
+<!-- **PRE EXPERIMENT TASK**
 
 1) What is mode of vibration?<br>
 2) What is distributed system?<br>
 3) What is discrete system?<br>
 4) What are the degrees of freedom?<br>
 5) What is the general solution for displacement of beam?<br>
-
+ -->
 
 **Preparation of specimens:**
 
@@ -53,11 +53,11 @@
 
 <img src="images/pr10.png"/> 
 
-**POST EXPERIMENT TASK**
+<!-- **POST EXPERIMENT TASK**
 
 1) Compute the frequency for five different lengths of the beam, keeping
 all other parameters constant. Plot a graph between frequency and
 length.<br>
 2) Compute the frequency for five different Young’s modulus of the beam,
 keeping all other parameters constant. Plot a graph between frequency
-and Young’s modulus.<br><br>
+and Young’s modulus.<br><br> -->
