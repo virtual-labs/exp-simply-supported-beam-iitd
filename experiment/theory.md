@@ -13,6 +13,8 @@ This computational model of Simply Supported Beam is based on distributed system
 
 Fig.1 shows the profile of nth modes of vibration of a simply supported beam.
 
+<center><img src="images/th1.png" height="200px"></center>
+
 where, <i>L</i> is the length of beam, <i>EI</i> is the flexural rigidity (<i>E</i> = Young's modulus, <i>I</i> = Moment of inertia), <i>A</i> is cross- sectional area, <i>f<sub>n</sub></i> is natural frequency and <i>C</i> is constant.
 
-<center><img src="images/th1.png" height="200px"></center>
+
