@@ -11,7 +11,7 @@ This computational model of Simply Supported Beam is based on distributed system
 
 <img src="images/formlsq1.png" style="height:499px;" draggable="false">
 
-Fig.1 shows the profile of nth modes of vibration of a simply supported beam.
+Fig.1 shows the profile of n<sup>th</sup> modes of vibration of a simply supported beam.
 
 <center><img src="images/th1.png" height="200px"></center>
 
