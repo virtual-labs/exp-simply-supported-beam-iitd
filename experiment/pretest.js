@@ -111,12 +111,12 @@
                           
 
     {
-      question: "3. This is a sample question:",  ///// Write the question inside double quotes
+      question: "3. Stiffness and mass are considered to be distributed properties is referred as ?",  ///// Write the question inside double quotes
       answers: {
-        a: "gfhgh",                  ///// Write the option 1 inside double quotes
-        b: "fghh",                  ///// Write the option 2 inside double quotes
-        c: "ghhghh",
-        d: "fhfhfgh",
+        a: "Discrete system",                  ///// Write the option 1 inside double quotes
+        b: "Stiffness characteristics",                  ///// Write the option 2 inside double quotes
+        c: "Degree of freedom",
+        d: "Distributed or continuous system",
       },
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
