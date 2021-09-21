@@ -109,8 +109,40 @@
       },
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
+                          
 
-
+    {
+      question: "3. This is a sample question:",  ///// Write the question inside double quotes
+      answers: {
+        a: "gfhgh",                  ///// Write the option 1 inside double quotes
+        b: "fghh",                  ///// Write the option 2 inside double quotes
+        c: "ghhghh",
+        d: "fhfhfgh",
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },
+                          
+     {
+      question: "4. This is a sample question:",  ///// Write the question inside double quotes
+      answers: {
+        a: "gfhgh",                  ///// Write the option 1 inside double quotes
+        b: "fghh",                  ///// Write the option 2 inside double quotes
+        c: "ghhghh",
+        d: "fhfhfgh",
+      },
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
+    },  
+                          
+     {
+      question: "5. This is a sample question:",  ///// Write the question inside double quotes
+      answers: {
+        a: "gfhgh",             ///// Write the option 1 inside double quotes
+        b: "fghh",                  ///// Write the option 2 inside double quotes
+        c: "ghhghh",
+        d: "fhfhfgh",
+      },
+      correctAnswer: "d"    ///// Write the correct option inside double quotes
+    },                     
 
      ];
 
