@@ -100,7 +100,7 @@
         },
 
     {
-      question: "2. A continuous system is different from a discrete system",  ///// Write the question inside double quotes
+      question: "2. A continuous system is different from a discrete system.",  ///// Write the question inside double quotes
       answers: {
         a: "True",                  ///// Write the option 1 inside double quotes
         b: "False",                  ///// Write the option 2 inside double quotes
