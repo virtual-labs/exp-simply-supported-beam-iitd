@@ -133,14 +133,14 @@
     },  
                           
      {
-      question: "5. This is a sample question:",  ///// Write the question inside double quotes
+      question: "5. <i>EI</i> is the _____.",  ///// Write the question inside double quotes
       answers: {
-        a: "Distributed system",             ///// Write the option 1 inside double quotes
-        b: "fghh",                  ///// Write the option 2 inside double quotes
-        c: "ghhghh",
-        d: "fhfhfgh",
+        a: "Natural frequency",             ///// Write the option 1 inside double quotes
+        b: "Length of beam",                  ///// Write the option 2 inside double quotes
+        c: "Cross- sectional area",
+        d: "Constant",
       },
-      correctAnswer: "a"    ///// Write the correct option inside double quotes
+      correctAnswer: "c"    ///// Write the correct option inside double quotes
     },                     
 
      ];
