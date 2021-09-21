@@ -100,7 +100,7 @@
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "ghjbm nmbnmnbmnnn,",  ///// Write the question inside double quotes
       answers: {
         a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
         b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
