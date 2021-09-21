@@ -89,7 +89,7 @@
 
 
     const myQuestions = [{
-            question: "1. <i>f<sub>n</sub></i> is the ____.", ///// Write the question inside double quotes
+            question: "1. <i>f<sub>n</sub></i> is the ____.", 
             answers: {
                 a: "Flexural rigidity", ///// Write the option 1 inside double quotes
                 b: "Cross-sectional area", ///// Write the option 2 inside double quotes
