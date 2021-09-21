@@ -89,7 +89,7 @@
 
 
      const myQuestions = [{
-            question: "1. Stiffness, mass, and damping are modelled as ?", ///// Write the question inside double quotes
+            question: "1. Stiffness, mass, and damping are modelled as", ///// Write the question inside double quotes
             answers: {
                 a: "Distributed properties", ///// Write the option 1 inside double quotes
                 b: "Discrete properties", ///// Write the option 2 inside double quotes
@@ -111,7 +111,7 @@
                           
 
     {
-      question: "3. Stiffness and mass are considered to be distributed properties is referred as ?",  ///// Write the question inside double quotes
+      question: "3. Stiffness and mass are considered to be distributed properties is referred as",  ///// Write the question inside double quotes
       answers: {
         a: "Discrete system",                  ///// Write the option 1 inside double quotes
         b: "Stiffness characteristics",                  ///// Write the option 2 inside double quotes
@@ -122,25 +122,25 @@
     },
                           
      {
-      question: "4. This is a sample question:",  ///// Write the question inside double quotes
+      question: "4. This computational model of Simply Supported Beam is based on",  ///// Write the question inside double quotes
       answers: {
-        a: "gfhgh",                  ///// Write the option 1 inside double quotes
-        b: "fghh",                  ///// Write the option 2 inside double quotes
-        c: "ghhghh",
-        d: "fhfhfgh",
+        a: "Distributed system",                  ///// Write the option 1 inside double quotes
+        b: "Discrete system",                  ///// Write the option 2 inside double quotes
+        c: "Degree of freedom",
+        d: "Distributed mass",
       },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },  
                           
      {
       question: "5. This is a sample question:",  ///// Write the question inside double quotes
       answers: {
-        a: "gfhgh",             ///// Write the option 1 inside double quotes
+        a: "Distributed system",             ///// Write the option 1 inside double quotes
         b: "fghh",                  ///// Write the option 2 inside double quotes
         c: "ghhghh",
         d: "fhfhfgh",
       },
-      correctAnswer: "d"    ///// Write the correct option inside double quotes
+      correctAnswer: "a"    ///// Write the correct option inside double quotes
     },                     
 
      ];
