@@ -137,7 +137,7 @@
       answers: {
         a: "Natural frequency",             ///// Write the option 1 inside double quotes
         b: "Length of beam",                  ///// Write the option 2 inside double quotes
-        c: "Cross- sectional area",
+        c: "Cross-sectional area",
         d: "Constant",
       },
       correctAnswer: "c"    ///// Write the correct option inside double quotes
