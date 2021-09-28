@@ -1,21 +1,20 @@
 [{
-	"question": "Q1. Select attributes which are used with ‹body› tag in html.",
+	"question": "Q1. <i>f<sub>n</sub></i> is the _____",
 	"answers": {
-		"a": "bgcolor",
-		"b": "background",
-		"c": "text",
-		"d": "All of the above"
+		"a": "Flexural rigidity",
+		"b": "Natural frequency",
+		"c": "Cross- sectional area",
+		"d": "Constant"
 	},
-	"correctAnswer": "d"
+	"correctAnswer": "b"
 }, {
-	"question": "Q2. Title attribute can be used in ______________ tag ?",
+	"question": "Q2. Only the first few modes are significant.",
 	"answers": {
-		"a": "p",
-		"b": "h1",
-		"c": "both",
-		"d": "none"
+		"a": "True",
+		"b": "False",
+		
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "a"
 }, {
 	"question": "Q3. Align attribute can be used with ‹p› and ‹h1› tags both.",
 	"answers": {
