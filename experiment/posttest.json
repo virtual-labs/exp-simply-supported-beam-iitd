@@ -8,7 +8,7 @@
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "Q2. Only the first few modes are significant.",
+	"question": "Q2. Only the first few modes are significant for a continuous system.",
 	"answers": {
 		"a": "True",
 		"b": "False"
@@ -16,26 +16,26 @@
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q3. Relation between natural frequency and the Young’s Modulus of Elasticity cannot  be studied.",
-	"answers": {
-		"a": "True",
-		"b": "False"
-	},
-	"correctAnswer": "b"
-}, {
-	"question": "Q4. This computational model of Simply Supported Beam is based on distributed system",
+	"question": "Q3. Relation between natural frequency and the Young’s modulus of elasticity cannot be studied.",
 	"answers": {
 		"a": "True",
 		"b": "False"
 	},
 	"correctAnswer": "a"
 }, {
-	"question": "Q5. A discrete system that possess a finite number of",
+	"question": "Q4. This computational model of simply supported beam is based on distributed system",
 	"answers": {
-		"a": "Degree Of Freedom",
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q5. A discrete system possesses a finite number of",
+	"answers": {
+		"a": "Degree of freedom",
 		"b": "Natural frequencies",
-		"c": "Young's modulus",
-		"d": "Elasticity"
+		"c": "Mode shapes",
+		"d": "All a, b & c"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }]
