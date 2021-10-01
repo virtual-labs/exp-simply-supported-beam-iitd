@@ -89,12 +89,12 @@
 
 
      const myQuestions = [{
-            question: "1. Stiffness, mass, and damping are modelled as", ///// Write the question inside double quotes
+            question: "1. For a continuous system, stiffness, mass, and damping are modelled as", ///// Write the question inside double quotes
             answers: {
                 a: "Distributed properties", ///// Write the option 1 inside double quotes
                 b: "Discrete properties", ///// Write the option 2 inside double quotes
-                c: "Distributed mass",
-                d: "Discrete system",
+                c: "Pointwise properties",
+                d: "None of the above",
             },
             correctAnswer: "b" ///// Write the correct option inside double quotes
         },
@@ -111,34 +111,34 @@
                           
 
     {
-      question: "3. Stiffness and mass are considered to be distributed properties is referred as",  ///// Write the question inside double quotes
+      question: "3. A continuous system has",  ///// Write the question inside double quotes
       answers: {
-        a: "Discrete system",                  ///// Write the option 1 inside double quotes
-        b: "Stiffness characteristics",                  ///// Write the option 2 inside double quotes
-        c: "Degree of freedom",
-        d: "Distributed or continuous system",
+        a: "Finite DOF",                  ///// Write the option 1 inside double quotes
+        b: "Infinite DOF",                  ///// Write the option 2 inside double quotes
+        c: "Can't say",
+        d: "None of the above",
       },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
                           
      {
-      question: "4. This computational model of Simply Supported Beam is based on",  ///// Write the question inside double quotes
+      question: "4. How many modes of a continuous system are important",  ///// Write the question inside double quotes
       answers: {
-        a: "Distributed system",                  ///// Write the option 1 inside double quotes
-        b: "Discrete system",                  ///// Write the option 2 inside double quotes
-        c: "Degree of freedom",
-        d: "Distributed mass",
+        a: "100-200",                  ///// Write the option 1 inside double quotes
+        b: "25-50",                  ///// Write the option 2 inside double quotes
+        c: "10-25",
+        d: "3-5",
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "d"                ///// Write the correct option inside double quotes
     },  
                           
      {
-      question: "5. <i>EI</i> is the _____.",  ///// Write the question inside double quotes
+      question: "5. Which modelling is more accurate for a beam?",  ///// Write the question inside double quotes
       answers: {
-        a: "Natural frequency",             ///// Write the option 1 inside double quotes
-        b: "Length of beam",                  ///// Write the option 2 inside double quotes
-        c: "Flexural rigidity",
-        d: "Cross-sectional area",
+        a: "Discrete system",             ///// Write the option 1 inside double quotes
+        b: "Continuous system",                  ///// Write the option 2 inside double quotes
+        c: "Both a & b",
+        d: "None of the above",
       },
       correctAnswer: "c"    ///// Write the correct option inside double quotes
     },                     
