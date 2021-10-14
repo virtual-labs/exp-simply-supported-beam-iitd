@@ -96,7 +96,7 @@
                 c: "Pointwise properties",
                 d: "None of the above",
             },
-            correctAnswer: "b" ///// Write the correct option inside double quotes
+            correctAnswer: "a" ///// Write the correct option inside double quotes
         },
 
     {
