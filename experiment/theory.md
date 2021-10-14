@@ -15,6 +15,4 @@ Fig.1 shows the profile of n<sup>th</sup> modes of vibration of a simply support
 
 <center><img src="images/th1.png" height="200px"></center>
 
-where, <i>L</i> is the length of beam, <i>EI</i> is the flexural rigidity (<i>E</i> = Young's modulus, <i>I</i> = Moment of inertia), <i>A</i> is cross- sectional area, <i>f<sub>n</sub></i> is natural frequency and <i>C</i> is constant.
-
-
+where, <i>L</i> is the length of beam, <i>EI</i> is the flexural rigidity (<i>E</i> = Young's modulus, I = Moment of inertia), <i>A</i> is cross- sectional area, <i>f<sub>n</sub></i> is natural frequency.
