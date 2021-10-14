@@ -9,7 +9,7 @@ Unlike a discrete system that possess a finite number of degree of freedom (DOF)
 This computational model of simply supported beam is based on distributed system. By using this online simulation, the student/user can easily determine the natural frequencies of beams and simulate the first five mode shapes. In addition, there is an exercise for user: The user can study and plot a graph between natural frequency and length of beams keeping all others factors constant. Similarly, relation between natural frequency and the Young’s modulus of elasticity can be studied.
 
 
-<img src="images/formlsq1.png" style="height:499px;" draggable="false">
+<img src="images/formlsq2.png" style="height:145px;" draggable="false">
 
 Fig.1 shows the profile of n<sup>th</sup> modes of vibration of a simply supported beam.
 
