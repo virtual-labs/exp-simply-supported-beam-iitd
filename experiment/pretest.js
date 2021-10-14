@@ -140,7 +140,7 @@
         c: "Both a & b",
         d: "None of the above",
       },
-      correctAnswer: "c"    ///// Write the correct option inside double quotes
+      correctAnswer: "b"    ///// Write the correct option inside double quotes
     },                     
 
      ];
