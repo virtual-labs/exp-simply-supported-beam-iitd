@@ -10,48 +10,117 @@
  -->
 
 **Preparation of specimens:**
-
 1. Click on start experiment button to start the experiment.
 
-<img src="images/pr1.png"/>
+<img src="images/pr1.png">
 
-2. Select all the parameters.
+stephere
 
-<img src="images/pr2.png"/>
+<img src="images/pr2.png">
 
-3. Click on add button to bring blocks in the lab.
+stephere
 
-<img src="images/pr3.png"/>
+<img src="images/pr3.png">
 
-4. Click on add button to bring beam in the lab.
+stephere
 
-<img src="images/pr4.png"/> 
+<img src="images/pr4.png"> 
 
-5. Click on beam to put it on the blocks.
+stephere
 
-<img src="images/pr5.png"/> 
+<img src="images/pr5.png"> 
 
-6. Enter details for specimen 1.
+stephere
 
-<img src="images/pr6.png"/> 
+<img src="images/pr6.png"> 
 
-7. Click calculate button to show frequency graph.
+stephere
 
-<img src="images/pr7.png"/> 
+<img src="images/pr7.png">
 
-8. Repeat the same process for specimen 2 and specimen 3.
-   
-9. Plot graph between Length & Calculated Frequency.
+stephere
 
-<img src="images/pr8.png"/> 
+<img src="images/pr8.png"> 
 
-10. Plot graph between Elasticity & Calculated Frequency.
+stephere
 
-<img src="images/pr9.png"/> 
+<img src="images/pr9.png"> 
 
-11. Plot graph between Elasticity & Calculated Frequency.
+stephere
 
-<img src="images/pr10.png"/> 
+<img src="images/pr10.png">
+
+stephere
+
+<img src="images/pr11.png">
+
+stephere
+
+<img src="images/pr12.png">
+
+stephere
+
+<img src="images/pr13.png"> 
+
+stephere
+
+<img src="images/pr14.png"> 
+
+stephere
+
+<img src="images/pr15.png"> 
+
+stephere
+
+<img src="images/pr16.png">
+
+stephere
+
+<img src="images/pr17.png"> 
+
+stephere
+
+<img src="images/pr18.png"> 
+
+stephere
+
+<img src="images/pr19.png">
+
+stephere
+
+<img src="images/pr20.png">
+
+stephere
+
+<img src="images/pr21.png">
+
+stephere
+
+<img src="images/pr22.png"> 
+
+stephere
+
+<img src="images/pr23.png"> 
+
+stephere
+
+<img src="images/pr24.png"> 
+
+stephere
+
+<img src="images/pr25.png">
+
+stephere
+
+<img src="images/pr26.png"> 
+
+stephere
+
+<img src="images/pr27.png"> 
+
+stephere
+
+<img src="images/pr28.png"> 
 
 <!-- **POST EXPERIMENT TASK**
 
