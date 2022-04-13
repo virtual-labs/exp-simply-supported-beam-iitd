@@ -14,113 +14,102 @@
 
 <img src="images/pr1.png">
 
-stephere
+Select all the parameters.
 
 <img src="images/pr2.png">
 
-stephere
+Select all the parameters.
 
 <img src="images/pr3.png">
 
-stephere
+Step-1: a) Click on add button to bring blocks in the lab.
 
-<img src="images/pr4.png"> 
+<img src="images/pr4.png">
 
-stephere
+Step-1: b) Click on add button to bring beam in the lab.
 
 <img src="images/pr5.png"> 
 
-stephere
+Step-1: c) Click on blocks to arrange them in right position.
 
 <img src="images/pr6.png"> 
 
-stephere
+Step-1: d) Click on beam to put it on the blocks.
 
 <img src="images/pr7.png">
 
-stephere
+Select all the parameters.
 
 <img src="images/pr8.png"> 
 
-stephere
+Select all the parameters.
 
 <img src="images/pr9.png"> 
 
-stephere
+Click on calculate button to calculate Frequency.
 
 <img src="images/pr10.png">
 
-stephere
+Click on calculate button to calculate Frequency.
 
 <img src="images/pr11.png">
 
-stephere
+Select all the parameters.
 
 <img src="images/pr12.png">
 
-stephere
+Select all the parameters.
 
 <img src="images/pr13.png"> 
 
-stephere
+Step-3: a) Click on add button to bring blocks in the lab.
 
 <img src="images/pr14.png"> 
 
-stephere
+Step-3: b) Click on add button to bring beam in the lab.
 
-<img src="images/pr15.png"> 
+<img src="images/pr15.png">
 
-stephere
+Step-3: c) Click on blocks to arrange them in right position.
 
 <img src="images/pr16.png">
 
-stephere
+Step-3: d) Click on beam to put it on the blocks.
 
 <img src="images/pr17.png"> 
 
-stephere
+Select all the parameters.
 
 <img src="images/pr18.png"> 
 
-stephere
+Select all the parameters.
 
 <img src="images/pr19.png">
 
-stephere
+Click on calculate button to calculate Frequency.
 
 <img src="images/pr20.png">
 
-stephere
+Click on calculate button to calculate Frequency.
 
 <img src="images/pr21.png">
 
-stephere
+Click on Plot Graph between F and L button to show graph.
 
-<img src="images/pr22.png"> 
+<img src="images/pr22.png">
 
-stephere
+Graph
 
 <img src="images/pr23.png"> 
 
-stephere
+Click on Plot Graph between E and F button to show graph.
 
 <img src="images/pr24.png"> 
 
-stephere
+Graph
 
 <img src="images/pr25.png">
 
-stephere
-
-<img src="images/pr26.png"> 
-
-stephere
-
-<img src="images/pr27.png"> 
-
-stephere
-
-<img src="images/pr28.png"> 
 
 <!-- **POST EXPERIMENT TASK**
 
